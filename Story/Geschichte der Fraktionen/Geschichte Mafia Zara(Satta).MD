@@ -32,3 +32,5 @@ leitet ein Geschwarder von 5 Jägern und 2 Großkampfschiffen
 ##2379
 - Ausbau der Bunker zur Eigenständigkeit
 - Verteidigung + Nahrung + Werft 
+
+Witwe

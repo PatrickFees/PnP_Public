@@ -19,10 +19,22 @@ Instructions on how to use them in your own application are linked below.
 | 2300| _nach dem Krieg mit den Sync und den verhärteten Fronten im Sonnensystem geht der Wunsch der Bevölkerung auf Versöhnung um.  _Angst das Sync und das mäßig zu kontrollierende System One auf ein geschwächtes Heimatsystem stößt| Vorgeschichte | 
 | 2300 -2350 | _Durch Vernachlässigung der Nebensysteme enstehten Mafiöse Vereinigungen und Freie Völker etablieren sich offiziell _Die Sync befinden sich im Wiederaufbau | Vorgeschichte | 
 | 2372 | _Anschlag im Politikviertel auf der Erde. Dekokratische Allianz _"Der General" wurde das Demokratische Oberhaupt (Partei AV) | Demokratische Allianz |
+| 2372 | _Abspaltung der infizierten und durch den Krieg zerstörten Zwischensystems | Sync | 
+| 2372 | _Umstrukturierung über Scheinfirma mit Mininggeschäft auf Satta _Verhandlung um Schutzaufträge mit den Freien Völkern | Mafia Zara|
 | 2375 | _Schläferausbruch der Aliens _Massive Infrastrukturschäden | Allgemein |
+| 2375 | Spionageaufträge in andere Systeme. Ziel ist die Beobachtung, Rohstoffsammlung und Technologiediebstahl | Sync |
 | 2375 | _Notstand wird ausgerufen _Der General ist nun Militär und Demokratieoberhaupt | Demokratische Allianz |
+| 2375 | _Zara muss untertauchen _Allianz betreibt Großfahndungen | Mafia Zara |
 | 2376 | _Aufstände der Bevölkerung _Gewünschte Neuwahlen, Partei EF sehr beliebt _Straßenkämpfe mit der Polizei und vereinzelt mit dem Militär  | Demokratische Allianz |
+| 2376 | Anfang der Klone und des Gedächtnisbackups | Sync | 
+| 2376 | _Zara treibt jedes Schutzgeld ein _verkauft all seine Waren _Aufbruch ins Syncsystem | Mafia Zara | 
 | 2377 | _Massiver Schläferausbruch auf dem Mond _Erdinfrastrukturen kurz vor dem Kollaps | Demokratische Allianz |
-| 2378 |  |  |
-| 2379 | _Space D und Sync helfen sich gegenseitig _Beide finden einen Weg gegen die Schläfer  | Demokratische Allianz und Sync |
+| 2377 | "Myr Myr" und Ralf entdecken spuren der Dunkelelfen und darin den Schlüssel gegen die Aliens | Sync |
+| 2377 | Einzug in die verlassenen Syncbunker _Angriff von Infizierten _Verlust der Halben Besatzung und von 2 Schiffen | Mafia Zara |
+| 2378 | Alienpandemie bei den Sync gestoppt | Sync | 
+| 2378 | Neuer Geschäftszweig: Schmuggel zwischen Sync und Erde | Mafia Zara |
+| 2379 | _Space D und Sync helfen sich gegenseitig _Beide finden einen Weg gegen die Schläfer  | Demokratische Allianz und Sync | 
+| 2379 | _Ausbau der Bunker zur Eigenständigkeit _Verteidigung + Nahrung + Werft  | Mafia Zara | 
+| 2380 | _"Myr Myr und Ralf" fliegen durch den Nebel | Sync |
+| 2385 | Leben entdeckt | Sync |
 
