@@ -150,4 +150,15 @@ auf Rastlina gefunden hatte.
 
 
 ## Linus,Jonas,Ronja,Jen
-## 
+
+##2375 November
+
+Die Gruppe hat vor der Forschungstation mit einer EMP Granate das bedrohliche Alienraumschiff vom Himmel geholt und untersucht. Auf dem Alienraumschiff angekommen haben sie mit der Alienleiche versucht in 
+den Aufenhaltsraum zu kommen. Allerdings hat sich das Alien über den Anzug selbst zerstört(alle Gleidmasen und Kopf ab). Die Gruppe hat parallel einen Überschallknall vernommen und ein offenes Notsignal 
+von einem Frachtflugzeug erhalten (Vatra Logistik mit Jen). Nachdem die Gruppe sich dem Notsignal und somit dem Schiff genährt hat viel auf das ein Wobler im rechten Triebwerk hing und das Schiff starke
+Hitzeschäden des Wiedereintrits hat. Jen konnte mit Hilfe der Gruppe aus dem Wrack befreit werden. Alles bis auf einen Notfallreaktor und Medikit war verbrannt. Jen hat aktuell keinen funktionierenden 
+Raumanzug mehr. Ronja konnte mit Nanobots im Hintern und dem Notfallkit wieder geheilt werden. Wieder am Alienschiff angekommen hat die Gruppe sich aufgespalten. April und Rico haben versucht das Alienschiff 
+zu starten und haben dabei eine Cryokapsel mit Alien entdeckt. Auf der Cryokapsel befinden sich wechselnde Zahlen (von Vier in der Zahl nun nurnoch zweistellig) (Countdown!). Dodo und Lorenzo sind zur Geheimen
+Forschungstation zurück weil dort Schüsse herkamen. Nachdem sie dort in Wobblerkämpfe kamen sind sie wieder heraus und dabei knapp dem Startflammen+Rauch einer Rettungskapsel entkommen. Die Rettungskapsel
+fliegt zur Relaistation im Orbit. Von dieser wird nur gesendet "Kanäle überlastet, Alle Bewohner sollen ihre Häuser und Wohnung verbarikadieren und nur zu Rettungsorten/Schiffen gehen wenn sie 
+vom Allianzmilitär dorthin eskortiert werden. Am Ende konnte das Alienraumschiff zum Schweben gebracht werden, ebenfalls ist ein Zugriff auf die Kameras um das Schiff vorhanden. 
