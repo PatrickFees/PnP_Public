@@ -1,0 +1,91 @@
+.container {
+    background-image: url(../Images//Map_Earth_System.png);
+    height: 2480px;
+    width: 3508px;
+    background-size: 100% 100%;
+
+    white-space: pre-line;
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-areas:
+        ". . . . . . . . . ."
+        ". . . . . . . . . ."
+        ". . . saturn saturn . . . . ."
+        ". . . saturn saturn . . . . ."
+        ". . . . .  rocha . . . ."
+        ". . . gare . schin mars . . ."
+        ". . . . erde erde . . . ."
+        ". . sperrzoneEins . . . . . nova nova"
+        ". . . . . . . . nova nova"
+        ". . . . . . . . . ."
+    ;
+}
+
+
+.erde {
+    grid-area: erde;
+}
+
+.gare {
+    grid-area: gare;
+}
+
+.mars {
+    grid-area: mars;
+}
+
+.mond {
+    grid-area: mond;
+}
+
+.nova {
+    grid-area: nova;
+}
+
+.rocha {
+    grid-area: rocha;
+}
+
+.saturn {
+    grid-area: saturn;
+}
+
+.schin {
+    grid-area: schin;
+}
+
+.sperrzoneEins {
+    grid-area: sperrzoneEins;
+}
+
+.tutkimum {
+    grid-area: tutkimum;
+}
+
+
+.button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+
+
+.cursor {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    transition-duration: 200ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    pointer-events: none;
+
+    background-image: url(../../../assets/img/cursorSpaceShip.png);
+    background-size: 100% 100%;
+}

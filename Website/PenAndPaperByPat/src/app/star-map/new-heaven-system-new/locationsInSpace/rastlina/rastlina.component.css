@@ -1,0 +1,29 @@
+.container {
+    background-size: 100% 100%;
+    background-image: url(../../../Images/Empty_Map.png);
+
+    height: 2480px;
+    width: 3508px;
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    grid-template-areas:
+        ". newHeavenMap"
+        "battleMap earthMap"
+    ;
+}
+
+
+.cursor {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    transition-duration: 200ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    pointer-events: none;
+
+    background-image: url(../../../../../assets/img/cursorSpaceShip.png);
+    background-size: 100% 100%;
+}

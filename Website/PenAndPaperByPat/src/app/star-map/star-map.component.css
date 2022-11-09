@@ -1,0 +1,53 @@
+.container {
+    background-size: 100% 100%;
+    background-image: url(Images/Empty_Map.png);
+
+    height: 2480px;
+    width: 3508px;
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    grid-template-areas:
+        ". newHeavenMap"
+        "battleMap earthMap"
+    ;
+}
+
+
+
+.newHeavenMap {
+
+    grid-area: newHeavenMap;
+    background-size: 100% 100%;
+    background-image: url(Images//Map_NewHeaven_System.png);
+}
+
+.earthMap {
+
+    grid-area: earthMap;
+    background-size: 100% 100%;
+    background-image: url(Images/Map_Earth_System.png);
+}
+
+.battleMap {
+
+    grid-area: battleMap;
+    background-size: 100% 100%;
+    background-image: url(Images/Map_WarZone.png);
+}
+
+
+
+.cursor {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transition-duration: 200ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    pointer-events: none;
+
+    background-image: url(../../assets/img/cursorSpaceShip.png);
+    background-size: 100% 100%;
+}

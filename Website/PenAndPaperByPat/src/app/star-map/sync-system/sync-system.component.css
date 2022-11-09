@@ -1,0 +1,32 @@
+.container {
+    background-image: url(../Images/Empty_Map.png);
+    height: 2480px;
+    width: 3508px;
+    background-size: 100% 100%;
+
+    white-space: pre-line;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-template-areas:
+        ". . . . ."
+        ". button button button ."
+        ". button button button ."
+        ". . . . ."
+        ". . . . ."
+    ;
+}
+
+.button {
+
+    font-size: 100px;
+    background-color: rgb(21, 235, 235);
+
+    border-radius: 20%;
+    box-shadow: 0 5px rgb(59, 155, 155);
+    transform: translateY(4px);
+}
+
+.button:hover {
+    background-color: rgb(64, 205, 205);
+}
