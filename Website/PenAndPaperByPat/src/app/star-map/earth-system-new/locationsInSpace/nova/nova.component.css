@@ -1,0 +1,95 @@
+.container {
+    background-image: url(../../../../../assets/img/Nova.png);
+    height: 2480px;
+    width: 3508px;
+    background-size: 100% 100%;
+
+    white-space: pre-line;
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-areas:
+        "resetBackground . . . . . . . . infos"
+        ". . . . . . . . . kurzInfo"
+        ". acidCave acidCave . . . . . . ."
+        ". acidCave acidCave . . . . . . ."
+        ". . . novaMinenTrainEingang .  novaEisMine . . . ."
+        ". . . . . . novaAirport novaAirport . ."
+        ". . . . . novaFactory novaAirport novaAirport . ."
+        ". . . . . . . . . ."
+        ". . . . . . . . . ."
+        ". . . . . . . . . ."
+    ;
+}
+
+.novaAirport {
+    grid-area: novaAirport;
+}
+
+.novaFactory {
+    grid-area: novaFactory;
+}
+
+.novaEisMine {
+    grid-area: novaEisMine;
+}
+
+.kurzInfo {
+    grid-area: kurzInfo;
+}
+
+.infos {
+    grid-area: infos;
+}
+
+.resetBackground {
+    grid-area: resetBackground;
+}
+
+.acidCave {
+    grid-area: acidCave;
+}
+
+.novaMinenTrainEingang {
+    grid-area: novaMinenTrainEingang;
+}
+
+.button {
+
+    font-size: 20px;
+    background-color: rgb(21, 235, 235);
+
+    border-radius: 20%;
+    box-shadow: 0 5px rgb(59, 155, 155);
+    transform: translateY(4px);
+}
+
+.button:hover {
+    background-color: rgb(64, 205, 205);
+}
+
+.invisibleButton {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+
+
+.cursor {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    transition-duration: 200ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    pointer-events: none;
+
+    background-image: url(../../../../../assets/img/cursorSpaceShip.png);
+    background-size: 100% 100%;
+}

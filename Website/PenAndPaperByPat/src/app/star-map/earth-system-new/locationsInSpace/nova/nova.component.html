@@ -1,1 +1,34 @@
-<p>nova works!</p>
+<div class="cursor" [style.top]="top" [style.left]="left" [ngClass]="{'expand':expand}"></div>
+
+
+<div class="container" id="container">
+
+    <button class=" infos button"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaInfo.png')">Infos</button>
+
+    <button class=" kurzInfo button" (click)="changeBackgroundImage('../../../../../assets/img/NovaKurzInfo.png')">Kurz
+        Info</button>
+
+
+
+
+    <button class=" resetBackground button" (click)="changeBackgroundImage('Nova.png')">Back</button>
+
+    <button class=" acidCave invisibleButton"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaCave.png')"></button>
+
+    <button class=" novaMinenTrainEingang invisibleButton"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaMinenTrainEingang.png')"></button>
+
+
+    <button class=" novaEisMine invisibleButton"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaEisMine.png')"></button>
+
+    <button class=" novaFactory invisibleButton"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaFactory.png')"></button>
+
+    <button class=" novaAirport invisibleButton"
+        (click)="changeBackgroundImage('../../../../../assets/img/NovaAirport.png')"></button>
+
+
+</div>
