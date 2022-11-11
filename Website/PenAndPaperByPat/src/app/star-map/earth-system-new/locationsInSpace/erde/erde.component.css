@@ -1,0 +1,104 @@
+.container {
+    background-image: url(../../../../../assets/img/Earth.png);
+    height: 2480px;
+    width: 3508px;
+    background-size: 100% 100%;
+
+    white-space: pre-line;
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-areas:
+        "resetBackground . . . . . . moonCity moonCity infos"
+        ". . . . . . . moonFabricAndDevelopment moonGreenhouses kurzInfo"
+        ". SpaceStation . . . . . . . ."
+        ". SpaceStation . . . . . . . ."
+        ". . . earthSlum earthSlum . . . . ."
+        ". . . . . earthGreentower . . . ."
+        ". . earthGreenhouses earthGreenhouses earthSpacePort . . . . ."
+        ". . . . . . . . . ."
+        ". . . . . . . . . ."
+        ". . . . . . . . . ."
+    ;
+}
+
+.SpaceStation {
+    grid-area: SpaceStation;
+}
+
+.moonGreenhouses {
+    grid-area: moonGreenhouses;
+}
+
+.moonFabricAndDevelopment {
+    grid-area: moonFabricAndDevelopment;
+}
+
+.moonCity {
+    grid-area: moonCity;
+}
+
+.infos {
+    grid-area: infos;
+}
+
+.resetBackground {
+    grid-area: resetBackground;
+}
+
+.earthSpacePort {
+    grid-area: earthSpacePort;
+}
+
+.earthGreenhouses {
+    grid-area: earthGreenhouses;
+}
+
+
+.earthGreentower {
+    grid-area: earthGreentower;
+}
+
+.earthSlum {
+    grid-area: earthSlum;
+}
+
+.button {
+
+    font-size: 20px;
+    background-color: rgb(21, 235, 235);
+
+    border-radius: 20%;
+    box-shadow: 0 5px rgb(59, 155, 155);
+    transform: translateY(4px);
+}
+
+.button:hover {
+    background-color: rgb(64, 205, 205);
+}
+
+.invisibleButton {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+
+
+.cursor {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    transition-duration: 200ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    pointer-events: none;
+
+    background-image: url(../../../../../assets/img/cursorSpaceShip.png);
+    background-size: 100% 100%;
+}
